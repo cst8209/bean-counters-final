@@ -1,0 +1,7 @@
+html, body {
+  display: grid;
+  justify-content: center;
+
+  font-family: sans-serif;
+  line-height: 1.5;
+}

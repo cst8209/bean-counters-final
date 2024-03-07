@@ -1,2 +1,4 @@
-# bean-counters
-This repository contains the starter files for the Bean Counters project
+# Bean Counters
+
+## Objective
+Using the counters data, create an alphabetical list of names and counts of each bean counter for each type of bean.
